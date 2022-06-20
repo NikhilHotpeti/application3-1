@@ -49,3 +49,9 @@ function square(number) {
 }
 
 square(2)
+
+function cube(number) {
+  console.log(`cube = ${number ** 3}`)
+}
+
+cube(2)
