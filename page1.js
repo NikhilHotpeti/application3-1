@@ -42,3 +42,10 @@ function multiply(p1, p2) {
 }
 
 multiply(10, 4)
+
+
+function square(number) {
+  console.log(`square = ${number ** 2}`)
+}
+
+square(2)
